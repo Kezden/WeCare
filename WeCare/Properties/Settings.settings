@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WeCare.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DBUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">wcu</Value>
+    </Setting>
+    <Setting Name="DBPass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">starocean</Value>
+    </Setting>
+    <Setting Name="DBServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">WECARE-SRV2</Value>
+    </Setting>
+    <Setting Name="DBName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">We Care 2017</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
